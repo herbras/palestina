@@ -1,5 +1,5 @@
 ---
-title: 'Pernyataan Akhir Direktur Kantor New York Komisioner Tinggi untuk Hak Asasi Manusia Mengenai Situasi Hak Asasi Manusia di Palestina'
+title: 'Pernyataan Akhir Direktur Kantor New York Komisioner Tinggi Mengenai Situasi Hak Asasi Manusia di Palestina'
 description: 'Sebuah surat perpisahan dari Direktur Kantor New York Komisioner Tinggi untuk Hak Asasi Manusia yang mengekspresikan keprihatinannya terhadap situasi genosida yang sedang berlangsung di Palestina. Dalam surat tersebut, penulis menggambarkan pengalamannya dalam menyelidiki hak asasi manusia di berbagai konflik global, termasuk di Palestina, dan menekankan kegagalan berulang-ulang dari organisasi internasional dalam mencegah kekejaman. Surat ini juga menyoroti peran negara-negara besar dalam mendukung tindakan Israel dan mendesak agar ada tindakan konkret untuk mengakhiri pelanggaran hak asasi manusia tersebut'
 pubDate: 'Nov 01 2023'
 heroImage: '/1.webp'
