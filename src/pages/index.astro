@@ -1,0 +1,12 @@
+---
+import { getEntryBySlug } from 'astro:content';
+import BlogPost from '../layouts/BlogPost.astro';
+
+const post = await getEntryBySlug('blog', 'pernyataan-akhir-direktur-kantor-new-york-komisioner-tinggi-untuk-hak-asasi-manusia');
+
+const { Content } = await post.render();
+---
+
+<BlogPost {...post.data}>
+	<Content />
+</BlogPost>
