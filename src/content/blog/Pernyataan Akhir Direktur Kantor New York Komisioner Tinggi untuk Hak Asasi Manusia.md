@@ -21,8 +21,16 @@ Saya juga pernah bekerja di koridor-koridor ini selama genosida terhadap Tutsi, 
 
 Komisioner Tinggi, kita gagal lagi.
 
-Sebagai pengacara hak asasi manusia dengan pengalaman lebih dari tiga dekade di lapangan, saya tahu betul bahwa konsep hak asasi manusia seringkali menjadi subjek penyalahgunaan politik. Namun, pembantaian besar-besaran yang sedang berlangsung terhadap rakyat Palestina, yang berakar pada ideologi pemerintah Israel yang etno-nasionalis dan dekade-dari penjajahan sistematis, sering kali dengan dorongan penuh berdasarkan status mereka sebagai Arab, dan dikombinasikan dengan niat jahat dari pemimpin-pemimpin pemerintah dan militer Israel, tidak memberikan ruang untuk keraguan atau interpretasi. Di Tepi Barat, termasuk Yerusalem yang diduduki, rumah dirampas, gereja, masjid, dan lembaga medis diserang secara sewenang-wenang, dan pogrom pemukim yang kejam disertai oleh unit-unit militer Israel. Di seluruh tanah, aturan Apartheid berlaku.
+Sebagai pengacara hak asasi manusia dengan pengalaman lebih dari tiga dekade di lapangan, saya tahu betul bahwa konsep hak asasi manusia seringkali menjadi subjek penyalahgunaan politik. Namun, pembantaian besar-besaran yang sedang berlangsung terhadap rakyat Palestina, yang berakar pada ideologi pemerintah Israel yang etno-nasionalis dan dekade-dari penjajahan sistematis, sering kali dengan dorongan penuh berdasarkan status mereka sebagai Arab, dan dikombinasikan dengan niat jahat dari pemimpin-pemimpin pemerintah dan militer Israel, tidak memberikan ruang untuk keraguan atau interpretasi. Di Tepi Barat, termasuk Yerusalem yang diduduki, rumah dirampas, gereja, masjid, dan lembaga medis diserang secara sewenang-wenang, dan **pogrom pemukim** yang kejam disertai oleh unit-unit militer Israel. Di seluruh tanah, aturan Apartheid berlaku.
 
+---
+### catatan
+- **Pogrom**: Kata yang berasal dari bahasa Rusia yang berarti "menghancurkan" atau "menyerang". Dalam konteks sejarah, "pogrom" biasanya mengacu pada serangan mendadak terorganisir terhadap kelompok etnik, agama, atau ras tertentu, khususnya terhadap komunitas Yahudi di Rusia dan Eropa Timur pada akhir abad ke-19 dan awal abad ke-20.
+- **Pemukim**: Orang-orang yang pindah dan menetap di wilayah yang sebelumnya tidak dihuni atau jarang dihuni oleh kelompok etnis, agama, atau ras mereka.
+
+Ketika kedua kata ini digabungkan menjadi "pogrom pemukim", itu bisa mengacu pada serangan terhadap pemukim oleh kelompok lain di daerah tersebut. Namun, konteks pasti dari frase tersebut tergantung pada sumber dan situasi yang sedang dibahas.
+
+---
 Ini adalah contoh klasik dari genosida. Proyek kolonial etno-nasionalis Eropa di Palestina telah memasuki fase terakhirnya, menuju penghancuran total sisa-sisa penduduk asli Palestina di bawah perlindungan dari pemerintah AS, Inggris, dan sebagian besar Eropa. Apa yang lebih mengerikan dari serangan mengerikan ini adalah bahwa pemerintah-pemerintah ini tidak hanya menolak untuk memenuhi kewajiban mereka untuk "menghormati" Konvensi Jenewa, tetapi mereka sebenarnya sedang aktif mempersenjatai pihak agresor, memberikan dukungan dan perlindungan intelijen, dan memberikan perlindungan politik dan diplomatik untuk tindakan Israel.
 
 Volker Turk, Komisioner Tinggi untuk Hak Asasi Manusia
